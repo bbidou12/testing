@@ -1,5 +1,12 @@
-console.log("fuck you")
-console.log("brahimi bidou")
-console.log("2006/02/26")
-console.log("bbidou12@gmail.com")
-console.log("something changed here")
+console.log("fuck you too")
+console.log("moon princess Ranni")
+
+console.log("UKNOWN")
+
+console.log("lust")
+console.log("pride")
+console.log("sloth")
+console.log("gluttony")
+console.log("greed")
+console.log("wrath")
+console.log("envy")
