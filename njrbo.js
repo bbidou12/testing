@@ -1,4 +1,7 @@
-console.log("nothing to see here")
+console.log("fixing bugs isn't enough anymore")
 
-console.log("just fixing some bugs")
-console.lo("this is verion 1.0.4")
+console.log("i need more")
+
+console.log("i need more scadutrees")
+
+console.lo("this is verion 1.0.5")

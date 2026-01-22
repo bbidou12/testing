@@ -1,12 +1,3 @@
 console.log("fuck you too")
-console.log("moon princess Ranni")
+console.log("i wanna be ranni's consort")
 
-console.log("UKNOWN")
-
-console.log("lust")
-console.log("pride")
-console.log("sloth")
-console.log("gluttony")
-console.log("greed")
-console.log("wrath")
-console.log("envy")
